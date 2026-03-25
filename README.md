@@ -57,6 +57,22 @@ flowchart TD
 ## OUTPUT:
 Captured Web Activity and Email Header Information
 
+## GMAIL IN BROWSER
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7127d4cf-ea65-4fa3-8360-22c15094128e" />
+
+## SENDING AN EMAIL
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d11d7d1b-14e8-45f7-bbab-77188015abea" />
+
+## FILTER FOR DNS
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/334dff22-8787-48a6-9e1c-677719200488" />
+
+## FILTER FOR HTTP
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c9c1284d-7a7a-48ba-a540-2cd627e1f87d" />
+
+## FILTER FOR TCP PORT 443
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/160f4a23-59cc-48c2-8fc8-8ffd3a791afb" />
+
+
 ## RESULT:
 Web browser artifacts and email headers were successfully analyzed using Wireshark.
 
